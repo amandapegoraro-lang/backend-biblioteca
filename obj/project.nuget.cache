@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MXXeU0X4M+4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\52592352821\\Desktop\\Workspace#\\backend-biblioteca\\backend-biblioteca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\52592352821\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
